@@ -245,3 +245,13 @@ p {
     height: auto;
   }
 }
+
+.cardprofile_content:hover {
+  margin-top: 10px;
+  transition: 0.1s;
+}
+
+.cardprofile_content2:hover {
+  margin-top: 10px;
+  transition: 0.1s;
+}
